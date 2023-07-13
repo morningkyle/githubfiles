@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T03:00:51.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VIyOzZYrVIB3Gm6gfBvJ" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T03:02:23.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0WlvMg4xwn_5_v-MK3zC" version="21.6.2" type="github">
   <diagram name="Page-1" id="KcMVhKevGDjmHu-vevIP">
     <mxGraphModel dx="794" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="MzqtTaXbOYVxBve9-991-9" value="This ISR is working at DISPATCH_LEVEL" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYt8iWn4R4vlqyBrgG1W-1" value="3 Types of Page Faults:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Minor&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Major&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Invalid&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KYt8iWn4R4vlqyBrgG1W-1" value="3 Types of Page Faults:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Minor&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Major&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Invalid&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
