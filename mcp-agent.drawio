@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="Cg0X3WxZHqH74CvIOkin-18" value="Makes API call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cg0X3WxZHqH74CvIOkin-16">
           <mxGeometry x="-0.1943" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cg0X3WxZHqH74CvIOkin-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="Cg0X3WxZHqH74CvIOkin-12" target="Cg0X3WxZHqH74CvIOkin-2">
